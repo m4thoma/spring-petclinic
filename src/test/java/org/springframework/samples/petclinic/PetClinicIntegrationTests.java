@@ -50,7 +50,7 @@ public class PetClinicIntegrationTests {
 	}
 
 	@Test
-	void testTest(){
+	void contextLoads() {
 		assertEquals(2,3);
 	}
 
